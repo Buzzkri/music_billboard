@@ -1,4 +1,4 @@
-<h1>Create Sub</h1>
+<h1>  <%= @sub.id ? "Edit Sub" : "Create Sub" %> </h1>
 <hr />
 <%= form_for @sub do |f| %>
   <%= f.label :name %>

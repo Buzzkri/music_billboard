@@ -5,11 +5,11 @@ one:
   artist: MyString
   genre: MyString
   billboard: one
-  Artist: one
+  artist: one
 
 two:
   title: MyString
   artist: MyString
   genre: MyString
   billboard: two
-  Artist: two
+  artist: two
